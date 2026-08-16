@@ -40,3 +40,26 @@ OFDM-QAM-Communication-System/
 ├── channel_encoding.m
 ├── Channeldecoding.m
 └── syndrom_table.m
+
+## 📊 Simulation Results
+
+### 1. 16-QAM – AWGN Channel
+![16-QAM AWGN Constellation](Screenshot%202026-08-16%20at%2014.04.00.png)
+
+### 2. 16-QAM – Multipath Channel
+![16-QAM Multipath Constellation](Screenshot%202026-08-16%20at%2014.04.06.png)
+
+### 3. 64-QAM – AWGN Channel
+![64-QAM AWGN Constellation](Screenshot%202026-08-16%20at%2014.04.10.png)
+
+### 4. 64-QAM – Multipath Channel
+![64-QAM Multipath Constellation](Screenshot%202026-08-16%20at%2014.04.20.png)
+
+### 5. BER Performance – AWGN
+![BER AWGN](Screenshot%202026-08-16%20at%2014.04.25.png)
+
+### 6. BER Performance – Multipath
+![BER Multipath](Screenshot%202026-08-16%20at%2014.04.31.png)
+
+### 7. BER Performance Comparison
+![BER Comparison](Screenshot%202026-08-16%20at%2014.04.39.png)
